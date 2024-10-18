@@ -1,0 +1,14 @@
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\bin\Debug\net8.0\Lesson 3.exe
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\bin\Debug\net8.0\Lesson 3.deps.json
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\bin\Debug\net8.0\Lesson 3.runtimeconfig.json
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\bin\Debug\net8.0\Lesson 3.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\bin\Debug\net8.0\Lesson 3.pdb
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\Lesson 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\Lesson 3.AssemblyInfoInputs.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\Lesson 3.AssemblyInfo.cs
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\Lesson 3.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\Lesson 3.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\refint\Lesson 3.dll
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\Lesson 3.pdb
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\Lesson 3.genruntimeconfig.cache
+C:\Users\vlad\Desktop\Hillel C# Basic\Lessons\ConsoleApp1\Lesson 3\obj\Debug\net8.0\ref\Lesson 3.dll
